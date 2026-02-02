@@ -1,0 +1,42 @@
+Ping-Pong Game Comparison
+=========================
+
+After creating the ping pong game with Cursor, there are many details
+that I believe were lacking. First of all, the ball was moving
+incredibly slow. It took approximately 1 minute for the ball to move
+from the right side to the left side. The readability of the code is
+fairly easy; it consists mainly of functions and spaced well. The code
+is not well commented; Cursor did not include any comments in the code.
+The speed of generation was quick. It took 28.31 seconds for Cursor to
+generate working code after I entered in the prompt. I believe Cursor to
+be very user-friendly and I love the interface. It is easy to navigate
+and straightforward. Because the original ping pong game was slow, I
+prompted Cursor to make it faster and also add comments. It is easy to
+allow for modifications, but I had to prompt Cursor twice to make it
+faster. Honestly, I like Cursor better than VS Code because the agent
+responds quickly and it is cleaner. When I clicked on the “Run” button,
+the ping pong game instantly displayed on my screen. The agent included
+information in the chat including the controls and how to run the
+program. Also, the agent did a great job at explaining and displaying
+the changes they were making.
+
+There are many distinctions between the game that was created in Cursor
+and the game that was created in VS Code. Compared to Cursor, VS Code
+generated a ping pong game that was very fast. The speed in the VS Code
+game was 5, and the speed in the Cursor game was 0.65. This version is
+about 6.7x faster. Also, VS Code created the game with pygame. I didn’t
+have pygame installed on my computer, so there was an error the first
+time I ran the code. Afterwards, when I ran the code, the code ran in a
+different application. The VS Code version had class functions and
+comments, whereas the Cursor version did not have either of those. Next,
+I think the agent is more readable in Cursor because there is a variety
+of colors compared to VS Code. In addition, the agent in VS Code
+generates more text in each response; I believe it drowns out the
+information that the user might be looking for. In my opinion, Cursor
+extracts only the important information. It is easy to debug with VS
+Code because when the PyGame error displayed I asked the agent on how to
+fix it and it gave me a solution right away. Additionally, VS Code takes
+a bit more time to answer a prompt compared to Cursor. All in all, I
+think Cursor generated a faster and more efficient game compared to VS
+Code. 
+
